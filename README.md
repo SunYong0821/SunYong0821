@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+![](https://visitor-badge.glitch.me/badge?page_id=skenoy.readme)
+![](http://antzuhl.cn:4000/get/@antzuhl.readme)
 
 <!--
 **skenoy/skenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
