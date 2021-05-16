@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![](https://visitor-badge.glitch.me/badge?page_id=skenoy.readme)
-![](http://skenoy.cn:4000/get/@skenoy.readme)
+![info](https://github-readme-stats.vercel.app/api?username=skenoy&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 <!--
 **skenoy/skenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
