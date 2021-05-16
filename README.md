@@ -4,11 +4,6 @@
 
 ![info](https://github-readme-stats.vercel.app/api?username=skenoy&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
-[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
-
-
 
 <!--
 **skenoy/skenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
