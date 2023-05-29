@@ -1,7 +1,9 @@
 # skenoy
 ### Hi there 👋
 
-⤷ bioinformation：WGS、WES、RNASeq、SingleCell、IR... $ it：vue、flask、mysql、linux... $ wet experiments：QPCR、Sequence
+⤷ bioinformation：WGS、WES、RNASeq、SingleCell、IR... 
+⤷ it：vue、flask、mysql、linux...
+⤷ wet experiments：QPCR、Sequence...
 
  <a aligh="left" href="https://blog.csdn.net/skenoy" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:skenoy@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a>  
 
