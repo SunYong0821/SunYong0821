@@ -19,4 +19,4 @@
 
 ![info](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SunYong0821&layout=compact)
 
-[![info](https://github-readme-stats.vercel.app/api/wakatime?username=SunYong0821)](https://github.com/anuraghazra/github-readme-stats)
+[![info](https://github-readme-stats.vercel.app/api/wakatime?username=SunYong0821)](https://github.com/SunYong0821/SunYong0821)
